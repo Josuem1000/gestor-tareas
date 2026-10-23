@@ -3,7 +3,7 @@
 Aplicación web para gestionar tareas (crear, editar, completar, eliminar, filtrar por estado/categoría y buscar).
 Todo el sistema vive en **un solo directorio raíz**, sin frameworks ni dependencias externas.
 
-**Autor:** Alex Elvis Mamani Bultron
+**Autor:** Maykol Josue Espinoza Alvarez
 
 ## Tecnologías
 - HTML5 + CSS3 (diseño responsive, modo oscuro automático)
