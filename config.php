@@ -22,7 +22,7 @@ define('DB_CHARSET', 'utf8mb4');
 
 // Nombre visible de la aplicación
 define('APP_NAME', 'Gestor de Tareas');
-define('APP_AUTOR', 'Alex Elvis Mamani Bultron');
+define('APP_AUTOR', 'Maykol Josue Espinoza Alvarez');
 
 // Muestra errores detallados (ponlo en false cuando todo funcione)
 define('APP_DEBUG', true);
